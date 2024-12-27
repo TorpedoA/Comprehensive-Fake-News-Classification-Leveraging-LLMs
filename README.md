@@ -19,4 +19,4 @@ The following image shows the results that were obtained:
 ![Accuracy and loss values of all the models on test set](result.png)
 
 
-More detailed information with visualizations can be found in the pdf file in this repository.
+More detailed information about the project that includes visualizations explainging the details about dataset and EDA, previous work(Literature Survey), details about methods employed, and results can be found in the pdf file named "final_report.pdf" in this repository.
