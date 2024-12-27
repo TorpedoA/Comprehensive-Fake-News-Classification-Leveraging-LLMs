@@ -16,7 +16,7 @@ After performing Exploratory Data Analysis (EDA), pre-processing techniques were
 
 The following image shows the results that were obtained:
 
-![Accuracy and loss values of all the models on test set](images/results.png)
+![Accuracy and loss values of all the models on test set](images/result.png)
 
 
 More detailed information with visualizations can be found in the pdf file in this repository.
